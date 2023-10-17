@@ -1,0 +1,7 @@
+{
+  "name": "menu_navigation_coulissant",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
